@@ -1,0 +1,30 @@
+h1{
+    font: size 4rem;
+    color:#B06630;
+    background-color:#F9F3E8;
+}
+.body{
+    background-color:#B06630;
+}
+h2{
+    font: size 2rem;
+    color:#B06630;
+    background-color: #F9F3E8;
+}
+
+.pag1{
+    font-size: 1.5rem;
+    color: aliceblue;
+    background-color: black;
+}
+.h1pag1{
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    background: rgb(56, 56, 56);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.td1{
+    text-align: center;
+    
+}
